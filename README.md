@@ -22,8 +22,7 @@ Here are some ideas to get you started:
     📫 How to reach me? via mail tunahanozdogan@gmail.com
 
 Connect with me:
-
-tunahanozdogan tunahanozdogan 20409166 tunahanozdogan tunahanozdogan tunahanozdogan tunahanozdogan
+kevsertemur@gmail.com
 Languages and Tools:
 
 arduino c cplusplus flask git java opencv python pytorch scikit_learn tensorflow
