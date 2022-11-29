@@ -19,10 +19,10 @@ Here are some ideas to get you started:
     👀 I’m interested in with culture, art, ideas. I like to get to know people, but more to eat. I like to system build excessively, system system system.
     🌱 I’m currently learning phyton for data scinece
     💞️ I’m looking to collaborate on with smart and intelligent people, companies, formations
-    📫 How to reach me? via mail tunahanozdogan@gmail.com
+ 
 
 Connect with me:
 kevsertemur@gmail.com
 Languages and Tools:
 
-arduino c cplusplus flask git java opencv python pytorch scikit_learn tensorflow
+c cplusplus git java selenium sql
