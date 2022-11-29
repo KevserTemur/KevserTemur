@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -  👀 I’m interested in with culture, art, ideas. I like to get to know people, but more to eat. I like to system build excessively, system system system.
 - 🌱 I’m currently learning phyton for data scinece
 - 💞️ I’m looking to collaborate on with smart and intelligent people, companies, formations
- - Connect with me:
-kevsertemur@gmail.com
-Languages and Tools:
 
 c cplusplus git java selenium sql
 -->
